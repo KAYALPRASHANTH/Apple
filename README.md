@@ -21,8 +21,6 @@ This test case simulates a user journey on the Apple online store, performing th
    - Enter a **valid pincode**
    - Continue to **buy the product**
 
----
-
 ## 🔧 Tech Stack
 
 - **Java**
@@ -30,3 +28,5 @@ This test case simulates a user journey on the Apple online store, performing th
 - **TestNG**
 - **Maven** (for build & dependency management)
 - **Page Object Model** (POM) design pattern
+
+---
